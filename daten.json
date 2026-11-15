@@ -1,0 +1,148 @@
+{
+ "firma": "Werder Agrar",
+ "stelle": "Landwirtschaftlicher Mitarbeiter (m/w/d)",
+ "ort": "Trollenhagen",
+ "plz": "17039",
+ "branche": "landwirtschaft",
+ "stelle_id": 1495,
+ "firma_genitiv": "von Werder Agrar",
+ "farbe_primary": "#016211",
+ "farbe_secondary": "#2B2B2B",
+ "region_badge": "Trollenhagen & Umgebung",
+ "benefit_top": "Unbefristet & moderne Landtechnik",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Moderne Landtechnik auf rund 2.300 Hektar",
+  "Betriebliche Altersvorsorge",
+  "Weiterbildungsangebote",
+  "Abwechslungsreiche Aufgaben mit viel Eigenverantwortung",
+  "Flache Hierarchien & junges Team",
+  "Pünktliches Gehalt",
+  "Erntefest und Weihnachtsfeier"
+ ],
+ "aufgaben": [
+  "In der Saison bist du mit moderner Landtechnik auf dem Acker im Einsatz: Bodenbearbeitung, Aussaat, Düngung, Pflanzenschutz und Ernte",
+  "In den ruhigeren Wintermonaten kümmerst du dich in der Werkstatt um Instandhaltung und Reparaturen unserer Maschinen und Geräte",
+  "Du führst unseren Maschinenpark und hältst ihn zuverlässig am Laufen",
+  "Du packst bei allen in der Landwirtschaft anfallenden Arbeiten mit an"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung zum Landwirt, Fachkraft Agrarservice, Landmaschinenmechatroniker oder eine ähnliche Qualifikation, Erfahrung in der Landwirtschaft und Führerschein Klasse T und B (idealerweise auch BE). Dazu Zuverlässigkeit, Ehrlichkeit und Lust auf Landwirtschaft.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirt / Landwirtschaft",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Fachkraft Agrarservice",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landmaschinen-Mechatroniker",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse T + B + BE",
+   "icon": "🚜"
+  },
+  {
+   "label": "Ja, Klasse T + B",
+   "icon": "🚜"
+  },
+  {
+   "label": "Nur Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "2.300",
+    "label": "Hektar Ackerbau"
+   }
+  ],
+  "text": "Werder Agrar ist ein inhabergeführter Marktfruchtbetrieb in der Mecklenburgischen Seenplatte – nördlich von Neubrandenburg. Mit einem jungen Team baut der Betrieb auf ca. 2.300 Hektar Weizen, Raps, Gerste, Roggen, Erbsen, Mais und Zuckerrüben an."
+ },
+ "kunde_tab": "55 Werder Agrar",
+ "quelle": "https://werder-agrar.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Trollenhagen (17039)"
+ },
+ "hero_bild": "img/hero-maehdrescher-abendrot.jpg",
+ "bilder": [
+  "img/f3-maehdrescher-abendrot.jpg",
+  "img/f1-pflanzenschutz-weizen.jpg",
+  "img/f2-ernte-ueberladen.jpg"
+ ],
+ "meta_geo": [
+  "Buchhof 7, 17039 Trollenhagen"
+ ]
+}
